@@ -1,5 +1,5 @@
 # EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
-### Date: 10-05-2024
+### Date: 10-05-2025
 ## Developed By:k.pujitha
 ## Reg No:212223240074
 ### AIM:
